@@ -72,7 +72,7 @@ Claude Code가 자동으로 인식합니다.
 
 ## 기여 · 피드백
 
-제가 이런 분야를 접한 지 얼마 안 돼서 부족한 점이 많습니다. 고칠 점이나 알려주실 내용이 있다면 [issue](https://github.com/AItinkerer0/explain-simply/issues)나 PR로 편하게 남겨주세요. **무엇이든 알려주시면 너무 감사하겠습니다.** 🙇
+제가 이런 분야를 접한 지 얼마 안 돼서 부족한 점이 많습니다. 고칠 점이나 알려주실 내용이 있다면 [issue](https://github.com/tinkerer0/explain-simply/issues)나 PR로 편하게 남겨주세요. **무엇이든 알려주시면 너무 감사하겠습니다.** 🙇
 
 ## 라이선스
 
